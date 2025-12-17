@@ -1,3 +1,4 @@
+from datetime import date
 from django.db import models
 from django.contrib.auth.models import User
 from django.utils import timezone
@@ -95,9 +96,8 @@ class Patient(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE, related_name='patient')
     full_name = models.CharField(max_length=255)
     date_of_birth = models.DateField(
-        validators=[
-            MinValueValidator(limit_value='1900-01-01'),
-        ]
+        verbose_name='Дата рождения',
+        validators=[MinValueValidator(date(1900, 1, 1))]  # ⬅️ ИСПРАВЛЕНО: объект date
     )
     gender = models.CharField(max_length=1, choices=GenderChoice.choices)
     passport_number = models.CharField(max_length=20, unique=True)

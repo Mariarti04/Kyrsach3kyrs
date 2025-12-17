@@ -1,0 +1,1097 @@
+INFO 2025-12-10 06:15:29,142 autoreload 8652 22668 Watching for file changes with StatReloader
+WARNING 2025-12-10 06:15:49,056 log 8652 23396 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:15:49,056 log 8652 15852 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:15:49,058 log 8652 18664 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:15:49,060 log 8652 20252 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:15:49,061 log 8652 13904 Not Found: /static/admin/css/login.css
+WARNING 2025-12-10 06:15:49,062 log 8652 16836 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:15:49,071 log 8652 16836 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:15:49,076 log 8652 16836 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:15:49,077 log 8652 13904 Not Found: /static/admin/css/login.css
+WARNING 2025-12-10 06:15:49,078 log 8652 20252 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:15:49,110 log 8652 13904 Not Found: /favicon.ico
+WARNING 2025-12-10 06:16:00,170 log 8652 13904 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:16:00,173 log 8652 20252 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:16:00,173 log 8652 16836 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:16:00,174 log 8652 13904 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:16:00,175 log 8652 18664 Not Found: /static/admin/css/dashboard.css
+WARNING 2025-12-10 06:16:00,177 log 8652 15852 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:16:00,183 log 8652 15852 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:16:00,184 log 8652 18664 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:16:24,866 log 8652 15852 Unauthorized: /api/v1/
+WARNING 2025-12-10 06:16:24,990 log 8652 15852 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-12-10 06:16:24,996 log 8652 20252 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-12-10 06:16:24,997 log 8652 16836 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-12-10 06:16:24,991 log 8652 18664 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-12-10 06:16:24,998 log 8652 13904 Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+WARNING 2025-12-10 06:16:24,999 log 8652 23396 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-12-10 06:16:25,001 log 8652 15852 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-12-10 06:16:25,003 log 8652 20252 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-12-10 06:16:25,003 log 8652 16836 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-12-10 06:16:25,004 log 8652 18664 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-12-10 06:16:37,772 log 8652 18664 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:16:37,774 log 8652 16836 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:16:37,774 log 8652 20252 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:16:37,775 log 8652 15852 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:16:37,775 log 8652 13904 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:16:37,778 log 8652 18664 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:16:37,781 log 8652 16836 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:16:37,782 log 8652 15852 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:16:37,784 log 8652 18664 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:16:37,782 log 8652 20252 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:16:37,785 log 8652 13904 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:16:37,787 log 8652 16836 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:16:37,788 log 8652 18664 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:16:37,790 log 8652 15852 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:16:37,791 log 8652 20252 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:16:37,792 log 8652 13904 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:16:37,798 log 8652 23396 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:16:37,799 log 8652 13904 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:16:37,800 log 8652 20252 Not Found: /static/admin/css/responsive.css
+INFO 2025-12-10 06:23:03,141 autoreload 20416 20156 Watching for file changes with StatReloader
+WARNING 2025-12-10 06:23:10,196 log 20416 6216 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:23:10,197 log 20416 12712 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:23:10,197 log 20416 4012 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:23:10,199 log 20416 9456 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:23:10,202 log 20416 4444 Not Found: /static/admin/css/dashboard.css
+WARNING 2025-12-10 06:23:10,203 log 20416 11996 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:23:10,212 log 20416 11996 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:23:10,217 log 20416 11996 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:23:10,217 log 20416 4444 Not Found: /static/admin/css/dashboard.css
+WARNING 2025-12-10 06:23:10,218 log 20416 9456 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:23:32,234 log 20416 9456 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:23:32,236 log 20416 4444 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:23:32,238 log 20416 4012 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:23:32,238 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:23:32,237 log 20416 11996 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:23:32,240 log 20416 9456 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:23:32,242 log 20416 4444 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:23:32,248 log 20416 12712 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:23:32,249 log 20416 9456 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:23:32,247 log 20416 4012 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:23:32,249 log 20416 11996 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:23:32,252 log 20416 4444 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:23:32,252 log 20416 12712 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:23:32,255 log 20416 11996 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:23:32,256 log 20416 4012 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:23:32,254 log 20416 9456 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:23:32,258 log 20416 11996 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:23:32,265 log 20416 11996 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:23:32,267 log 20416 12712 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:23:32,266 log 20416 4012 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:23:32,267 log 20416 6216 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:23:32,268 log 20416 4444 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:23:32,266 log 20416 9456 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:23:32,284 log 20416 4444 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:23:42,152 log 20416 4444 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:23:42,154 log 20416 4012 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:23:42,153 log 20416 9456 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:23:42,155 log 20416 12712 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:23:42,153 log 20416 6216 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:23:42,162 log 20416 4012 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:23:42,163 log 20416 9456 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:23:42,164 log 20416 4444 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:23:42,164 log 20416 12712 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:23:42,165 log 20416 6216 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:23:42,167 log 20416 4012 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:23:42,168 log 20416 9456 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:23:42,170 log 20416 4444 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:23:42,172 log 20416 12712 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:23:42,173 log 20416 6216 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:23:42,175 log 20416 12732 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:23:42,177 log 20416 23368 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:23:42,181 log 20416 23368 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:23:42,183 log 20416 12712 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:23:42,183 log 20416 6216 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:23:42,184 log 20416 4444 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:23:42,184 log 20416 11996 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:23:42,182 log 20416 12732 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:23:42,189 log 20416 11996 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:24:10,477 log 20416 11996 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:10,479 log 20416 12732 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:10,479 log 20416 4444 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:10,479 log 20416 6216 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:10,480 log 20416 12712 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:24:10,482 log 20416 11996 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:10,484 log 20416 12732 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:24:10,486 log 20416 12712 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:10,487 log 20416 6216 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:10,489 log 20416 4444 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:10,491 log 20416 11996 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:10,493 log 20416 12712 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:10,494 log 20416 6216 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:10,495 log 20416 12732 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:10,497 log 20416 11996 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:10,498 log 20416 4444 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:10,499 log 20416 12712 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:24:10,506 log 20416 4444 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:24:10,506 log 20416 11996 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:24:10,507 log 20416 12712 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:10,507 log 20416 23368 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:24:10,508 log 20416 12732 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:24:10,508 log 20416 6216 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:24:18,048 log 20416 6216 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:18,050 log 20416 12732 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:18,051 log 20416 23368 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:18,053 log 20416 12712 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:18,053 log 20416 11996 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:18,055 log 20416 6216 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:18,058 log 20416 12732 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:18,060 log 20416 11996 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:18,059 log 20416 23368 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:18,059 log 20416 12712 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:18,063 log 20416 6216 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:18,065 log 20416 11996 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:18,068 log 20416 12732 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:18,069 log 20416 23368 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:18,072 log 20416 6216 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:24:18,078 log 20416 6216 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:18,079 log 20416 4444 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:18,086 log 20416 4444 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:24:18,087 log 20416 6216 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:24:18,088 log 20416 23368 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:18,088 log 20416 12732 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:24:18,089 log 20416 11996 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:24:18,089 log 20416 12712 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:24:18,094 log 20416 12732 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:24:29,702 log 20416 12732 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:29,704 log 20416 11996 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:29,705 log 20416 12712 Not Found: /static/admin/css/changelists.css
+WARNING 2025-12-10 06:24:29,706 log 20416 4444 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:29,706 log 20416 23368 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:29,708 log 20416 12732 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:29,711 log 20416 11996 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:29,713 log 20416 12712 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:29,714 log 20416 23368 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:29,715 log 20416 4444 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:29,715 log 20416 12732 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:29,717 log 20416 11996 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:29,718 log 20416 4444 Not Found: /static/admin/css/changelists.css
+WARNING 2025-12-10 06:24:29,719 log 20416 23368 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:29,721 log 20416 12712 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:29,723 log 20416 12732 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:29,724 log 20416 11996 Not Found: /static/admin/img/search.svg
+WARNING 2025-12-10 06:24:29,731 log 20416 11996 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:24:29,732 log 20416 12712 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:29,732 log 20416 12732 Not Found: /static/admin/js/filters.js
+WARNING 2025-12-10 06:24:34,634 log 20416 12732 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:34,636 log 20416 6216 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:34,637 log 20416 23368 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:34,635 log 20416 12712 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:34,635 log 20416 11996 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:34,640 log 20416 6216 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:34,641 log 20416 12732 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:34,644 log 20416 23368 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:34,645 log 20416 12712 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:34,646 log 20416 11996 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:34,647 log 20416 12732 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:34,648 log 20416 23368 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:34,648 log 20416 6216 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:34,650 log 20416 11996 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:34,652 log 20416 23368 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:34,653 log 20416 12732 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:24:34,654 log 20416 12712 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:34,661 log 20416 12048 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:24:34,662 log 20416 12712 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:24:34,663 log 20416 12732 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:34,664 log 20416 23368 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:24:34,666 log 20416 19904 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:24:34,667 log 20416 12048 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:24:34,665 log 20416 6216 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:24:43,554 log 20416 6216 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:43,555 log 20416 12048 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:43,556 log 20416 19904 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:43,556 log 20416 23368 Not Found: /static/admin/css/changelists.css
+WARNING 2025-12-10 06:24:43,557 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:43,558 log 20416 6216 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:43,562 log 20416 19904 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:43,563 log 20416 1736 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:43,565 log 20416 12712 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:43,566 log 20416 23368 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:43,568 log 20416 6216 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:43,569 log 20416 19904 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:43,571 log 20416 12712 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:43,572 log 20416 1736 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:43,573 log 20416 6216 Not Found: /static/admin/img/search.svg
+WARNING 2025-12-10 06:24:43,579 log 20416 7304 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:24:43,579 log 20416 6216 Not Found: /static/admin/js/filters.js
+WARNING 2025-12-10 06:24:43,580 log 20416 12712 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:47,599 log 20416 12712 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:47,600 log 20416 6216 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:47,601 log 20416 1736 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:47,602 log 20416 19904 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:47,604 log 20416 7304 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:47,606 log 20416 12712 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:47,608 log 20416 6216 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:47,610 log 20416 7304 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:47,611 log 20416 19904 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:47,612 log 20416 1736 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:47,613 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:47,614 log 20416 6216 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:24:47,616 log 20416 7304 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:47,618 log 20416 19904 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:47,620 log 20416 1736 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:47,622 log 20416 12712 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:47,623 log 20416 19000 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:24:47,631 log 20416 19000 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:24:47,631 log 20416 12712 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:47,632 log 20416 1736 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:24:47,633 log 20416 23368 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:24:47,634 log 20416 19904 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:24:47,635 log 20416 7304 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:24:47,639 log 20416 1736 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:24:51,576 log 20416 1736 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:24:51,578 log 20416 7304 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:24:51,579 log 20416 19904 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:24:51,579 log 20416 23368 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:51,580 log 20416 12712 Not Found: /static/admin/css/changelists.css
+WARNING 2025-12-10 06:24:51,581 log 20416 1736 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:24:51,585 log 20416 23368 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:24:51,586 log 20416 12712 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:24:51,587 log 20416 19904 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:24:51,589 log 20416 7304 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:24:51,590 log 20416 1736 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:24:51,592 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:24:51,593 log 20416 19904 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:24:51,594 log 20416 23368 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:24:51,595 log 20416 1736 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:24:51,596 log 20416 7304 Not Found: /static/admin/img/search.svg
+WARNING 2025-12-10 06:24:51,602 log 20416 7304 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:24:51,603 log 20416 23368 Not Found: /static/admin/js/filters.js
+WARNING 2025-12-10 06:24:51,602 log 20416 1736 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:04,926 log 20416 7304 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:29:04,928 log 20416 1736 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:29:04,929 log 20416 23368 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:29:04,929 log 20416 19000 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:04,932 log 20416 19904 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:29:04,932 log 20416 7304 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:04,936 log 20416 23368 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:29:04,939 log 20416 1736 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:29:04,937 log 20416 19000 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:29:04,940 log 20416 19904 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:29:04,941 log 20416 7304 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:29:04,943 log 20416 23368 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:04,945 log 20416 1736 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:29:04,946 log 20416 19000 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:29:04,949 log 20416 7304 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:29:04,952 log 20416 1736 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:29:04,951 log 20416 19904 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:29:04,954 log 20416 23368 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:29:04,957 log 20416 19904 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:29:04,958 log 20416 1736 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:04,958 log 20416 23368 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:29:04,959 log 20416 7304 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:29:04,960 log 20416 19000 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:29:04,960 log 20416 12712 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:29:04,964 log 20416 1736 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:29:23,398 log 20416 1736 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:29:23,400 log 20416 12712 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:29:23,401 log 20416 23368 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:29:23,402 log 20416 7304 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:29:23,403 log 20416 19000 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:23,405 log 20416 1736 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:23,408 log 20416 12712 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:29:23,409 log 20416 23368 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:29:23,411 log 20416 22920 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:29:23,413 log 20416 12712 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:29:23,415 log 20416 23368 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:29:23,412 log 20416 19000 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:29:23,418 log 20416 1736 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:29:23,421 log 20416 12712 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:29:23,423 log 20416 22920 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:29:23,425 log 20416 23368 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:29:23,425 log 20416 19000 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:29:23,433 log 20416 19904 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:29:23,434 log 20416 23368 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:29:23,434 log 20416 19000 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:23,435 log 20416 22920 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:29:23,435 log 20416 12712 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:29:23,436 log 20416 1736 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:29:23,440 log 20416 22920 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:29:28,110 log 20416 22920 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:29:28,112 log 20416 1736 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:29:28,113 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:29:28,114 log 20416 19000 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:29:28,115 log 20416 19904 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:28,117 log 20416 22920 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:28,120 log 20416 12712 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:29:28,121 log 20416 1736 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:29:28,123 log 20416 19000 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:29:28,124 log 20416 19904 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:29:28,127 log 20416 22920 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:29:28,129 log 20416 12712 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:29:28,131 log 20416 1736 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:28,132 log 20416 19904 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:29:28,133 log 20416 19000 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:29:28,134 log 20416 22920 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:29:28,137 log 20416 12712 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:29:28,138 log 20416 1736 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:29:28,139 log 20416 19904 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:29:28,145 log 20416 19904 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:29:28,145 log 20416 1736 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:28,146 log 20416 12712 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:29:28,147 log 20416 23368 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:29:28,147 log 20416 22920 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:29:28,148 log 20416 19000 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:29:28,152 log 20416 23368 Not Found: /static/admin/js/change_form.js
+ERROR 2025-12-10 06:29:42,379 log 20416 23368 Internal Server Error: /admin/clinic/patient/add/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 710, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\sites.py", line 247, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1942, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1801, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1846, in _changeform_view
+    form_validated = form.is_valid()
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 201, in errors
+    self.full_clean()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 339, in full_clean
+    self._post_clean()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\models.py", line 503, in _post_clean
+    self.instance.full_clean(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        exclude=exclude, validate_unique=False, validate_constraints=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1678, in full_clean
+    self.clean_fields(exclude=exclude)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1733, in clean_fields
+    setattr(self, f.attname, f.clean(raw_value, self))
+                             ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 837, in clean
+    self.run_validators(value)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 789, in run_validators
+    v(value)
+    ~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 395, in __call__
+    if self.compare(cleaned, limit_value):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 429, in compare
+    return a < b
+           ^^^^^
+TypeError: '<' not supported between instances of 'datetime.date' and 'str'
+ERROR 2025-12-10 06:29:45,264 log 20416 23368 Internal Server Error: /admin/clinic/patient/add/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 710, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\sites.py", line 247, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1942, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1801, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1846, in _changeform_view
+    form_validated = form.is_valid()
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 201, in errors
+    self.full_clean()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 339, in full_clean
+    self._post_clean()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\models.py", line 503, in _post_clean
+    self.instance.full_clean(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        exclude=exclude, validate_unique=False, validate_constraints=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1678, in full_clean
+    self.clean_fields(exclude=exclude)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1733, in clean_fields
+    setattr(self, f.attname, f.clean(raw_value, self))
+                             ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 837, in clean
+    self.run_validators(value)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 789, in run_validators
+    v(value)
+    ~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 395, in __call__
+    if self.compare(cleaned, limit_value):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 429, in compare
+    return a < b
+           ^^^^^
+TypeError: '<' not supported between instances of 'datetime.date' and 'str'
+WARNING 2025-12-10 06:29:55,708 log 20416 23368 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:29:55,710 log 20416 19000 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:29:55,711 log 20416 22920 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:29:55,712 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:29:55,712 log 20416 1736 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:55,713 log 20416 23368 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:55,716 log 20416 19000 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:29:55,717 log 20416 22920 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:29:55,720 log 20416 12712 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:29:55,721 log 20416 23368 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:29:55,723 log 20416 19000 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:29:55,722 log 20416 1736 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:29:55,724 log 20416 22920 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:29:55,728 log 20416 23368 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:29:55,730 log 20416 19000 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:29:55,729 log 20416 12712 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:29:55,732 log 20416 22920 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:29:55,737 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:29:55,738 log 20416 22920 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:29:55,746 log 20416 22920 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:29:55,748 log 20416 19904 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:29:55,747 log 20416 12712 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:29:55,748 log 20416 19000 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:29:55,748 log 20416 1736 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:29:55,747 log 20416 23368 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:29:55,753 log 20416 1736 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:30:00,675 log 20416 1736 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:30:00,676 log 20416 19000 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:30:00,677 log 20416 12712 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:30:00,677 log 20416 19904 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:30:00,675 log 20416 23368 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:30:00,681 log 20416 1736 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:30:00,683 log 20416 12712 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:30:00,684 log 20416 19000 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:30:00,686 log 20416 23368 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:30:00,688 log 20416 12712 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:30:00,686 log 20416 19904 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:30:00,691 log 20416 19000 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:30:00,689 log 20416 1736 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:30:00,692 log 20416 23368 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:30:00,693 log 20416 12712 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:30:00,695 log 20416 22920 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:30:00,696 log 20416 19904 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:30:00,697 log 20416 19000 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:30:00,698 log 20416 1736 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:30:00,704 log 20416 19000 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:30:00,704 log 20416 1736 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:30:00,705 log 20416 19904 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:30:00,705 log 20416 22920 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:30:00,705 log 20416 12712 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:30:00,706 log 20416 23368 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:30:00,709 log 20416 19000 Not Found: /static/admin/js/change_form.js
+ERROR 2025-12-10 06:30:23,008 log 20416 19000 Internal Server Error: /admin/clinic/patient/add/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 710, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\sites.py", line 247, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1942, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1801, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1846, in _changeform_view
+    form_validated = form.is_valid()
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 201, in errors
+    self.full_clean()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 339, in full_clean
+    self._post_clean()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\models.py", line 503, in _post_clean
+    self.instance.full_clean(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        exclude=exclude, validate_unique=False, validate_constraints=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1678, in full_clean
+    self.clean_fields(exclude=exclude)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1733, in clean_fields
+    setattr(self, f.attname, f.clean(raw_value, self))
+                             ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 837, in clean
+    self.run_validators(value)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 789, in run_validators
+    v(value)
+    ~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 395, in __call__
+    if self.compare(cleaned, limit_value):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 429, in compare
+    return a < b
+           ^^^^^
+TypeError: '<' not supported between instances of 'datetime.date' and 'str'
+WARNING 2025-12-10 06:31:02,093 log 20416 19000 Unauthorized: /api/v1/patients/
+WARNING 2025-12-10 06:31:02,217 log 20416 19000 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-12-10 06:31:02,218 log 20416 12712 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-12-10 06:31:02,218 log 20416 23368 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-12-10 06:31:02,219 log 20416 1736 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-12-10 06:31:02,219 log 20416 19904 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-12-10 06:31:02,220 log 20416 22920 Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+WARNING 2025-12-10 06:31:02,224 log 20416 12712 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-12-10 06:31:02,225 log 20416 19000 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-12-10 06:31:02,226 log 20416 23368 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-12-10 06:31:02,228 log 20416 1736 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-12-10 06:31:09,341 log 20416 1736 Not Found: /api/v1/staff/
+WARNING 2025-12-10 06:31:14,729 log 20416 1736 Unauthorized: /api/v1/appointments/
+WARNING 2025-12-10 06:31:14,851 log 20416 1736 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-12-10 06:31:14,853 log 20416 12712 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-12-10 06:31:14,852 log 20416 19000 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-12-10 06:31:14,853 log 20416 19904 Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+WARNING 2025-12-10 06:31:14,854 log 20416 22920 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-12-10 06:31:14,852 log 20416 23368 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-12-10 06:31:14,858 log 20416 1736 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-12-10 06:31:14,859 log 20416 12712 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-12-10 06:31:14,859 log 20416 19000 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-12-10 06:31:14,860 log 20416 19904 Not Found: /static/rest_framework/js/default.js
+ERROR 2025-12-10 06:31:22,093 log 20416 19000 Internal Server Error: /admin/clinic/patient/add/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 710, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\sites.py", line 247, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1942, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1801, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1846, in _changeform_view
+    form_validated = form.is_valid()
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 201, in errors
+    self.full_clean()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 339, in full_clean
+    self._post_clean()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\models.py", line 503, in _post_clean
+    self.instance.full_clean(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        exclude=exclude, validate_unique=False, validate_constraints=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1678, in full_clean
+    self.clean_fields(exclude=exclude)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1733, in clean_fields
+    setattr(self, f.attname, f.clean(raw_value, self))
+                             ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 837, in clean
+    self.run_validators(value)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 789, in run_validators
+    v(value)
+    ~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 395, in __call__
+    if self.compare(cleaned, limit_value):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 429, in compare
+    return a < b
+           ^^^^^
+TypeError: '<' not supported between instances of 'datetime.date' and 'str'
+ERROR 2025-12-10 06:31:24,661 log 20416 19000 Internal Server Error: /admin/clinic/patient/add/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 710, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\sites.py", line 247, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1942, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1801, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1846, in _changeform_view
+    form_validated = form.is_valid()
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 201, in errors
+    self.full_clean()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 339, in full_clean
+    self._post_clean()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\models.py", line 503, in _post_clean
+    self.instance.full_clean(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        exclude=exclude, validate_unique=False, validate_constraints=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1678, in full_clean
+    self.clean_fields(exclude=exclude)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1733, in clean_fields
+    setattr(self, f.attname, f.clean(raw_value, self))
+                             ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 837, in clean
+    self.run_validators(value)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 789, in run_validators
+    v(value)
+    ~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 395, in __call__
+    if self.compare(cleaned, limit_value):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 429, in compare
+    return a < b
+           ^^^^^
+TypeError: '<' not supported between instances of 'datetime.date' and 'str'
+WARNING 2025-12-10 06:31:29,227 log 20416 19000 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:31:29,229 log 20416 12712 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:31:29,229 log 20416 19904 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:31:29,230 log 20416 23368 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:31:29,232 log 20416 1736 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:31:29,233 log 20416 19000 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:31:29,236 log 20416 12712 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:31:29,237 log 20416 23368 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:31:29,238 log 20416 1736 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:31:29,239 log 20416 19904 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:31:29,241 log 20416 19000 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:31:29,242 log 20416 12712 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:31:29,244 log 20416 23368 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:31:29,245 log 20416 1736 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:31:29,246 log 20416 19904 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:31:29,248 log 20416 19000 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:31:29,250 log 20416 22920 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:31:29,256 log 20416 22920 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:31:29,258 log 20416 19000 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:31:29,260 log 20416 19000 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:31:29,265 log 20416 19000 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:31:29,267 log 20416 23368 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:31:29,266 log 20416 19904 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:31:29,266 log 20416 1736 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:31:29,267 log 20416 12712 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:31:29,265 log 20416 22920 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:31:31,546 log 20416 22920 Unauthorized: /api/v1/appointments/
+WARNING 2025-12-10 06:31:31,566 log 20416 22920 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-12-10 06:31:31,568 log 20416 12712 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-12-10 06:31:31,568 log 20416 1736 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-12-10 06:31:31,569 log 20416 19904 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-12-10 06:31:31,569 log 20416 23368 Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+WARNING 2025-12-10 06:31:31,571 log 20416 19000 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-12-10 06:31:31,571 log 20416 22920 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-12-10 06:31:31,573 log 20416 12712 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-12-10 06:31:31,575 log 20416 19904 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-12-10 06:31:31,576 log 20416 1736 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-12-10 06:31:33,073 log 20416 1736 Unauthorized: /api/v1/appointments/
+WARNING 2025-12-10 06:31:33,093 log 20416 1736 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-12-10 06:31:33,095 log 20416 19904 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-12-10 06:31:33,096 log 20416 12712 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-12-10 06:31:33,096 log 20416 22920 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-12-10 06:31:33,096 log 20416 19000 Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+WARNING 2025-12-10 06:31:33,097 log 20416 23368 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-12-10 06:31:33,098 log 20416 1736 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-12-10 06:31:33,100 log 20416 19904 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-12-10 06:31:33,101 log 20416 12712 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-12-10 06:31:33,102 log 20416 23368 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-12-10 06:31:42,584 log 20416 23368 Not Found: /
+WARNING 2025-12-10 06:31:43,919 log 20416 23368 Not Found: /
+WARNING 2025-12-10 06:31:44,431 log 20416 23368 Not Found: /
+INFO 2025-12-10 06:32:00,379 autoreload 22968 21264 Watching for file changes with StatReloader
+WARNING 2025-12-10 06:32:04,164 log 22968 18216 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:32:04,166 log 22968 16560 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:32:04,167 log 22968 13548 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:32:04,169 log 22968 14676 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:32:04,171 log 22968 15444 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:32:04,171 log 22968 16560 Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+WARNING 2025-12-10 06:32:04,170 log 22968 18216 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:32:04,173 log 22968 13548 Not Found: /static/admin/js/calendar.js
+WARNING 2025-12-10 06:32:04,175 log 22968 14676 Not Found: /static/admin/js/jquery.init.js
+WARNING 2025-12-10 06:32:04,177 log 22968 15444 Not Found: /static/admin/js/admin/DateTimeShortcuts.js
+WARNING 2025-12-10 06:32:04,178 log 22968 16560 Not Found: /static/admin/js/core.js
+WARNING 2025-12-10 06:32:04,184 log 22968 18216 Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+WARNING 2025-12-10 06:32:04,185 log 22968 13548 Not Found: /static/admin/js/actions.js
+WARNING 2025-12-10 06:32:04,186 log 22968 14676 Not Found: /static/admin/js/urlify.js
+WARNING 2025-12-10 06:32:04,190 log 22968 15444 Not Found: /static/admin/js/prepopulate.js
+WARNING 2025-12-10 06:32:04,192 log 22968 13548 Not Found: /static/admin/css/forms.css
+WARNING 2025-12-10 06:32:04,191 log 22968 18216 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:32:04,190 log 22968 16560 Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+WARNING 2025-12-10 06:32:04,193 log 22968 14676 Not Found: /static/admin/js/prepopulate_init.js
+WARNING 2025-12-10 06:32:04,202 log 22968 14676 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:32:04,202 log 22968 16560 Not Found: /static/admin/img/icon-changelink.svg
+WARNING 2025-12-10 06:32:04,203 log 22968 18132 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:32:04,203 log 22968 18216 Not Found: /static/admin/img/icon-addlink.svg
+WARNING 2025-12-10 06:32:04,204 log 22968 13548 Not Found: /static/admin/img/icon-viewlink.svg
+WARNING 2025-12-10 06:32:04,205 log 22968 15444 Not Found: /static/admin/img/icon-deletelink.svg
+WARNING 2025-12-10 06:32:04,208 log 22968 18132 Not Found: /static/admin/js/change_form.js
+WARNING 2025-12-10 06:32:08,107 log 22968 18132 Not Found: /static/admin/css/base.css
+WARNING 2025-12-10 06:32:08,108 log 22968 15444 Not Found: /static/admin/css/dark_mode.css
+WARNING 2025-12-10 06:32:08,109 log 22968 16560 Not Found: /static/admin/css/dashboard.css
+WARNING 2025-12-10 06:32:08,110 log 22968 13548 Not Found: /static/admin/js/theme.js
+WARNING 2025-12-10 06:32:08,110 log 22968 18216 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2025-12-10 06:32:08,111 log 22968 14676 Not Found: /static/admin/css/responsive.css
+WARNING 2025-12-10 06:32:08,117 log 22968 18216 Not Found: /static/admin/css/dashboard.css
+WARNING 2025-12-10 06:32:08,118 log 22968 14676 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2025-12-10 06:32:23,039 log 22968 14676 Not Found: /api/v1/staff/
+WARNING 2025-12-10 06:32:24,267 log 22968 14676 Unauthorized: /api/v1/patients/
+WARNING 2025-12-10 06:32:24,287 log 22968 14676 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-12-10 06:32:24,288 log 22968 13548 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-12-10 06:32:24,289 log 22968 16560 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-12-10 06:32:24,289 log 22968 15444 Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+WARNING 2025-12-10 06:32:24,290 log 22968 18132 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-12-10 06:32:24,288 log 22968 18216 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-12-10 06:32:24,292 log 22968 14676 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-12-10 06:32:24,294 log 22968 13548 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-12-10 06:32:24,296 log 22968 16560 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-12-10 06:32:24,294 log 22968 15444 Not Found: /static/rest_framework/js/default.js
+INFO 2025-12-11 07:54:51,201 autoreload 15980 14680 Watching for file changes with StatReloader
+INFO 2025-12-11 07:55:25,313 autoreload 13352 10968 Watching for file changes with StatReloader
+INFO 2025-12-11 07:55:50,886 autoreload 19528 2776 Watching for file changes with StatReloader
+INFO 2025-12-11 07:56:26,523 autoreload 4772 19732 Watching for file changes with StatReloader
+ERROR 2025-12-11 07:59:40,236 log 4772 2396 Internal Server Error: /admin/clinic/patient/add/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 710, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\sites.py", line 247, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1942, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1801, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\contrib\admin\options.py", line 1846, in _changeform_view
+    form_validated = form.is_valid()
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 201, in errors
+    self.full_clean()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\forms.py", line 339, in full_clean
+    self._post_clean()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\forms\models.py", line 503, in _post_clean
+    self.instance.full_clean(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        exclude=exclude, validate_unique=False, validate_constraints=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1678, in full_clean
+    self.clean_fields(exclude=exclude)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\base.py", line 1733, in clean_fields
+    setattr(self, f.attname, f.clean(raw_value, self))
+                             ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 837, in clean
+    self.run_validators(value)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\db\models\fields\__init__.py", line 789, in run_validators
+    v(value)
+    ~^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 395, in __call__
+    if self.compare(cleaned, limit_value):
+       ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\validators.py", line 429, in compare
+    return a < b
+           ^^^^^
+TypeError: '<' not supported between instances of 'datetime.date' and 'str'
+WARNING 2025-12-11 07:59:40,329 log 4772 2396 Not Found: /favicon.ico
+INFO 2025-12-11 08:02:17,663 autoreload 4772 19732 C:\Users\Professional\Desktop\ œ\clinic\models.py changed, reloading.
+INFO 2025-12-11 08:02:18,155 autoreload 18536 21616 Watching for file changes with StatReloader
+INFO 2025-12-11 08:07:56,845 autoreload 21580 8844 Watching for file changes with StatReloader
+INFO 2025-12-11 08:10:06,052 autoreload 21188 15276 Watching for file changes with StatReloader
+WARNING 2025-12-11 08:10:18,517 log 21188 17068 Not Found: /api/v1/departments/
+WARNING 2025-12-11 08:10:29,145 log 21188 18304 Unauthorized: /api/v1/appointments/
+WARNING 2025-12-11 08:10:35,567 log 21188 18304 Not Found: /api/v1/staff/
+WARNING 2025-12-11 08:10:42,004 log 21188 18304 Unauthorized: /api/v1/patients/
+INFO 2025-12-11 23:39:26,905 autoreload 21040 13456 Watching for file changes with StatReloader
+INFO 2025-12-11 23:40:04,632 autoreload 17000 15700 Watching for file changes with StatReloader
+INFO 2025-12-11 23:47:41,268 autoreload 19596 7660 Watching for file changes with StatReloader
+WARNING 2025-12-11 23:47:45,335 log 19596 8744 Not Found: /favicon.ico
+WARNING 2025-12-11 23:48:54,918 log 19596 8744 Unauthorized: /api/v1/patients/
+WARNING 2025-12-11 23:49:03,457 log 19596 8744 Unauthorized: /api/v1/patients/
+WARNING 2025-12-11 23:49:08,079 log 19596 8744 Unauthorized: /api/v1/patients/
+INFO 2025-12-12 00:00:09,866 autoreload 1568 3856 Watching for file changes with StatReloader
+WARNING 2025-12-12 00:00:22,466 log 1568 21228 Unauthorized: /api/v1/patients/
+WARNING 2025-12-12 00:00:30,414 log 1568 21228 Unauthorized: /api/v1/patients/
+WARNING 2025-12-12 00:00:38,241 log 1568 21228 Unauthorized: /api/v1/staff/
+WARNING 2025-12-12 00:00:45,623 log 1568 21228 Unauthorized: /api/v1/appointments/
+INFO 2025-12-12 00:04:49,332 autoreload 6300 16088 Watching for file changes with StatReloader
+WARNING 2025-12-12 00:05:00,195 log 6300 12340 Not Found: /accounts/profile/
+INFO 2025-12-12 00:06:27,576 autoreload 6300 16088 C:\Users\Professional\Desktop\ œ\medical_clinic\settings.py changed, reloading.
+INFO 2025-12-12 00:06:28,125 autoreload 20784 20144 Watching for file changes with StatReloader
+WARNING 2025-12-12 00:07:33,599 log 20784 19532 Not Found: /api/v1/patients/[ID]/export_pdf/
+WARNING 2025-12-12 00:07:49,552 log 20784 19532 Not Found: /api/v1/patients/[ID]/medical_records/
+INFO 2025-12-14 19:25:30,305 autoreload 5172 3320 Watching for file changes with StatReloader
+INFO 2025-12-14 19:26:19,526 autoreload 18812 4456 Watching for file changes with StatReloader
+WARNING 2025-12-14 19:26:26,564 log 18812 20272 Not Found: /favicon.ico
+WARNING 2025-12-14 19:26:30,561 log 18812 20272 Not Found: /
+INFO 2025-12-14 19:40:30,641 autoreload 7860 8588 Watching for file changes with StatReloader
+INFO 2025-12-14 19:43:17,800 autoreload 17352 14816 Watching for file changes with StatReloader
+INFO 2025-12-17 04:54:30,496 autoreload 15948 19348 Watching for file changes with StatReloader
+WARNING 2025-12-17 04:54:35,466 log 15948 15216 Not Found: /favicon.ico
+INFO 2025-12-17 04:58:10,863 autoreload 15948 19348 C:\Users\Professional\Desktop\ œ\clinic\admin.py changed, reloading.
+INFO 2025-12-17 04:58:11,258 autoreload 1716 2728 Watching for file changes with StatReloader
+INFO 2025-12-17 04:58:17,384 autoreload 15080 17108 Watching for file changes with StatReloader
+INFO 2025-12-17 05:01:34,513 autoreload 20404 1644 Watching for file changes with StatReloader
+ERROR 2025-12-17 05:01:38,116 log 20404 16588 Internal Server Error: /swagger/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\views.py", line 129, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\generators.py", line 337, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\generators.py", line 561, in get_paths
+    operation = self.get_operation(
+        view, path, prefix, method, components, request
+    )
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\generators.py", line 609, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 43, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 101, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 168, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 551, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        {"field_inspectors": self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 55, in get_schema
+    return self.probe_field_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        serializer, openapi.Schema, self.use_definitions
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 277, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 164, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<4 lines>...
+    )
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'clinic.views.DepartmentViewSet.get_serializer_class.<locals>.DepartmentSerializer'> would override distinct serializer <class 'clinic.views.DepartmentViewSet.get_serializer_class.<locals>.DepartmentSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+ERROR 2025-12-17 05:01:46,277 log 20404 8524 Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\views.py", line 129, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\generators.py", line 337, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\generators.py", line 561, in get_paths
+    operation = self.get_operation(
+        view, path, prefix, method, components, request
+    )
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\generators.py", line 609, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 43, in get_operation
+    body = self.get_request_body_parameters(consumes)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 101, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 168, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 551, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        {"field_inspectors": self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 55, in get_schema
+    return self.probe_field_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        serializer, openapi.Schema, self.use_definitions
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 277, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\Professional\Desktop\ œ\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 164, in field_to_swagger_object
+    raise SwaggerGenerationError(
+    ...<4 lines>...
+    )
+drf_yasg.errors.SwaggerGenerationError: Schema for <class 'clinic.views.DepartmentViewSet.get_serializer_class.<locals>.DepartmentSerializer'> would override distinct serializer <class 'clinic.views.DepartmentViewSet.get_serializer_class.<locals>.DepartmentSerializer'> because they implicitly share the same ref_name; explicitly set the ref_name attribute on both serializers' Meta classes
+INFO 2025-12-17 05:05:12,992 autoreload 20388 9312 Watching for file changes with StatReloader
